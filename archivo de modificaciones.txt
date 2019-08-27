@@ -1,3 +1,10 @@
 Este archivo será utilizado para emular modificaciones en el proyecto colaborativo.
 
 Daniela Benavides
+
+María José Macías García
+
+El repositorio remoto actualizado se puede encontrar en las URLS.
+
+https://github.com/danielabenavides/tarea_colaborativo1
+https://github.com/mariajmac/tarea_colaborativo1
